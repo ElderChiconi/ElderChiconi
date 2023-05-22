@@ -1,4 +1,3 @@
-
 ### Ola, Sou Elder Chiconi!!! 👋
 
 
@@ -8,7 +7,7 @@
 - 💬 Atualmente cursando Sistema de Informação na UVV
 - 📫 email-elderchiconi.ifes@gmail.com
 
-<h1>ElderChiconi - Perfil</h1>
+<h1>ElderChiconi </h1>
 
 
  Costruir seu perfil [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
