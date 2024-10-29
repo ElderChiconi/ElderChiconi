@@ -1,4 +1,4 @@
-### Ola, Sou "Elder Chiconi"!!! 👋
+### Ola, Sou "ElderChiconi"!!! 👋
 
 
 - 🔭 Sou Empresario
